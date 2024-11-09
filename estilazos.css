@@ -1,0 +1,54 @@
+body {
+    width: 100%;
+    background-color: gainsboro;
+    font-family: Verdana;
+}
+
+.cabecero {
+    width: 100%;
+    height: 85px;
+    background-color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+.postcontainer {
+    width: 600px;
+    margin: auto;
+}
+
+.post1header h1 {
+    float: left;
+    margin: auto;
+}
+
+.post1header span {
+    float: right;
+    margin: auto;
+}
+
+.post1img img {
+    width: 600px;
+    height: 400px;
+}
+
+.post2img img {
+    width: 600px;
+    height: 400px;
+}
+
+.post3img img {
+    width: 600px;
+    height: 400px;
+}
+
+.post4img img {
+    width: 600px;
+    height: 400px;
+}
+
+.post5img img {
+    width: 600px;
+    height: 400px;
+}
+
